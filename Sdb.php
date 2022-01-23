@@ -11,6 +11,7 @@ const SDB_MAP_JSON = 2;
  * Simply it reads through input file and outputs php objects/arrays or
  * values directly.
  * You don't need to know any javascript, json or sql.
+ * Soon with query engine.
  *
  * Copyright smskSoft, mtnsmsk, devsimsek, Metin Şimşek.
  * @package     Sdb
