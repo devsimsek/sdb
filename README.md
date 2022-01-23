@@ -4,7 +4,7 @@
 [![hits](https://hits.deltapapa.io/github/devsimsek/sdb.svg)](https://devsimsek.github.io/sdb)
 [![Github All Releases](https://img.shields.io/github/downloads/devsimsek/sdb/total.svg)]()
 [![GitHub license](https://img.shields.io/github/license/sdb/sdb.svg)](https://github.com/devsimsek/sdb/blob/master/LICENSE)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/devsimsek/sdb/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-green.svg)](https://GitHub.com/devsimsek/sdb/graphs/commit-activity)
 [![GitHub issues](https://img.shields.io/github/issues/devsimsek/sdb.svg)](https://GitHub.com/devsimsek/sdb/issues/)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/devsimsek/sdb)
 
